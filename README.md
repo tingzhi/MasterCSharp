@@ -8,6 +8,8 @@ This is my path of learning C# in Pluralsight. For code snippets, tips and trick
 
 ### Grade Book Project
 
+- Additional: Unit test for the grade book.
+
 ## Course: C# Generics
 
 ## Course: LINQ Fundamentals
